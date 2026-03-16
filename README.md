@@ -1,20 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Nguyen Chi Duy Khang - David 👋
 
-<!--
-**davidnguyen1802/davidnguyen1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me:
+- 🎓 **Junior student** at Ho Chi Minh City University of Technology - VNU-HCM (Bach Khoa HCM).
+- 💻 **Focusing on:** Backend Development (Java / Spring Boot), Data Structures & Algorithms, Database Design, Distributed Systems.
+---
 
-Here are some ideas to get you started:
+### 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([YOUR_FACEBOOK_LINK](https://www.facebook.com/khang.nguyen.david05/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ncduykhang.05@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidnguyen1802&show_icons=true&theme=dark)
+### 💻 Tech Stack:
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidnguyen1802&layout=compact&theme=dark)
+---
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidnguyen1802&show_icons=true&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidnguyen1802&layout=compact&theme=dark&hide_border=false" width="38%" />
+</p>
+
+---

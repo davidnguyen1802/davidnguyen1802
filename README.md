@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyen Chi Duy Khang - David
+# Hi, I'm Nguyen Chi Duy Khang - David
 
 ### 💫 About Me:
 - 🎓 **Junior student** at Ho Chi Minh City University of Technology - VNU-HCM (Bach Khoa HCM).
